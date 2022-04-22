@@ -1,1 +1,7 @@
-cd ~
+➜ pwd
+/tmp
+➜ echo $HOME
+/home/devops
+➜ source ./1-bring_me_home
+➜ pwd
+/home/devops
