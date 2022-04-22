@@ -1,2 +1,2 @@
 touch hello
-sudo chmod 754 hello
+sudo chmod u+rwx,g+rx,o+x hello
