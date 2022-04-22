@@ -1,2 +1,2 @@
-touch hello
-sudo chmod u+rwx,g+rx,o+x hello
+touch hello.txt
+sudo chmod u+rwx,g+rx,o+x hello.txt
