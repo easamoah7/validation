@@ -1,1 +1,1 @@
-ls -a /2-listmorefiles
+ls ./2-listmorefiles/
